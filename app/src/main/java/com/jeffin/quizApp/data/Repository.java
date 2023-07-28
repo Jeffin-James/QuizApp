@@ -1,11 +1,9 @@
-package com.bawp.trivia.data;
-
-import android.util.Log;
+package com.jeffin.quizApp.data;
 
 import com.android.volley.Request;
 import com.android.volley.toolbox.JsonArrayRequest;
-import com.bawp.trivia.controller.AppController;
-import com.bawp.trivia.model.Question;
+import com.jeffin.quizApp.controller.AppController;
+import com.jeffin.quizApp.model.Question;
 
 import org.json.JSONException;
 

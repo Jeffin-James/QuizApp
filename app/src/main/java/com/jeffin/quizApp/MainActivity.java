@@ -1,4 +1,4 @@
-package com.bawp.trivia;
+package com.jeffin.quizApp;
 
 import android.graphics.Color;
 import android.os.Bundle;
@@ -7,11 +7,11 @@ import android.view.animation.AlphaAnimation;
 import android.view.animation.Animation;
 import android.view.animation.AnimationUtils;
 
-import com.bawp.trivia.data.Repository;
-import com.bawp.trivia.databinding.ActivityMainBinding;
-import com.bawp.trivia.model.Question;
-import com.bawp.trivia.model.Score;
-import com.bawp.trivia.util.Prefs;
+import com.jeffin.quizApp.data.Repository;
+import com.jeffin.quizApp.databinding.ActivityMainBinding;
+import com.jeffin.quizApp.model.Question;
+import com.jeffin.quizApp.model.Score;
+import com.jeffin.quizApp.util.Prefs;
 import com.google.android.material.snackbar.Snackbar;
 
 import java.text.MessageFormat;

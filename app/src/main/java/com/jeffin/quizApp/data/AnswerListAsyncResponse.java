@@ -1,6 +1,6 @@
-package com.bawp.trivia.data;
+package com.jeffin.quizApp.data;
 
-import com.bawp.trivia.model.Question;
+import com.jeffin.quizApp.model.Question;
 
 import java.util.ArrayList;
 

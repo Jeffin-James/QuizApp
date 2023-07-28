@@ -1,4 +1,4 @@
-package com.bawp.trivia.controller;
+package com.jeffin.quizApp.controller;
 
 import android.app.Application;
 

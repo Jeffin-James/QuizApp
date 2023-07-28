@@ -1,6 +1,6 @@
-package com.bawp.trivia;
+package com.jeffin.quizApp;
 
-import org.junit.Test;
+import org.testng.annotations.Test;
 
 import static org.junit.Assert.*;
 

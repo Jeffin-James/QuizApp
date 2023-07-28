@@ -1,4 +1,4 @@
-package com.bawp.trivia.model;
+package com.jeffin.quizApp.model;
 
 public class Question {
     private String answer;

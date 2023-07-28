@@ -1,4 +1,4 @@
-package com.bawp.trivia.util;
+package com.jeffin.quizApp.util;
 
 import android.app.Activity;
 import android.content.Context;
